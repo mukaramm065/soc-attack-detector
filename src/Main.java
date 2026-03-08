@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
         // I put the logs in a separate text file so the program feels more real.
-        String filePath = "auth_logs.txt";
+        String filePath = "logs/auth_logs.txt";
 
         try {
             // Read all lines from the log file.
